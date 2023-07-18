@@ -1,0 +1,35 @@
+div {
+    width: 750px;
+    text-align: center;
+}
+h3 {
+    font-family: "Courier";
+}
+ul, ol {
+    margin: auto;
+    text-align: left;
+    width: 300px;
+    
+}
+ol {
+    width: 500px;
+}
+img {
+    width: 500px;
+    height: auto;
+    border-style: solid;
+}
+
+.grim {
+    background-color: #ff00ff40;
+    color: purple;
+}
+.toast {
+    background-color: #ccc68d80;
+    color: dimgray;
+}
+.banana {
+    background-color: #8a7a6d40;
+    color: brown;
+}
+
