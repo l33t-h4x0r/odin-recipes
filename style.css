@@ -1,9 +1,19 @@
-div {
+.recipe {
     width: 750px;
+    text-align: center;
+    margin: auto;
+    padding: 20px 0px;
+}
+h1 {
+    margin: 0px 0px 20px 0px;
+    
+}
+.title {
     text-align: center;
 }
 h3 {
     font-family: "Courier";
+   
 }
 ul, ol {
     margin: auto;
@@ -18,6 +28,21 @@ img {
     width: 500px;
     height: auto;
     border-style: solid;
+    margin: auto;
+}
+
+.menu {
+    width: 300px;
+    margin: auto;
+    padding: 0px;
+    border: 5px navy dotted;
+    background-color: lightskyblue;
+}
+.dish {
+    text-align: center;
+    margin: 32px;
+    padding: 16px 8px; 
+    background-color: lightblue;
 }
 
 .grim {
